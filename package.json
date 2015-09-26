@@ -1,0 +1,14 @@
+{
+  "name": "node4-on-docker",
+  "version": "1.0.0",
+  "description": "Node 4 on Docker",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Patricio López <lopezjuripatricio@gmail.com> (https://lopezjuri.com)",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
